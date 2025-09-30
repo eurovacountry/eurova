@@ -1,0 +1,4 @@
+site_name: My Site
+theme:
+  name: material
+docs_dir: docs
